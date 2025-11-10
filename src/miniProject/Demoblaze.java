@@ -140,6 +140,7 @@ public class Demoblaze extends BrowserLaunch {
 		screenShot("DemoBlaze_Login");
 		add_Product_ToCart();
 		
+		System.out.println("hi");
 		
 	}
 }
