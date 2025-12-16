@@ -84,6 +84,12 @@ public class Demoblaze extends BrowserLaunch {
 		if (placeorder_btn_text.equalsIgnoreCase(expected_prod_text.getText())) {
 		    System.out.println("Both text is matching");
 		}
+		
+		
+		
+		
+		
+		
 
 		//if(placeorder_btn_text.equals(Product_titile_text)) {
 //		if(placeorder_btn_text.equals(expected_prod_text.getText())) {
@@ -141,6 +147,9 @@ public class Demoblaze extends BrowserLaunch {
 		add_Product_ToCart();
 		
 		System.out.println("hi");
+		
+		
+		System.out.println("hello all");
 		
 	}
 }
